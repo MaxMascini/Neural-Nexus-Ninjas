@@ -2,7 +2,7 @@
 Neural Nexus Ninjas Neural Data MRI Hackathon Repository
 
 # Tasks:
-1. [Easier] Use CNN (Kerras(?)) to find relationship between gray matter, white matter, & cerebrospinal fluid
+1. [Easier] Use CNN (Kerras(?)) to find relationship between gray matter, white matter, and cerebrospinal fluid with age
     - Could calculate this information and then use it as a feature with a classifier to predict age directly
 2. [Harder] Use ResNet to predict age directly from MRI data
 
