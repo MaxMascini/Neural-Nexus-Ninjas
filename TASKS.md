@@ -1,5 +1,14 @@
 # TO-DOs/Tasks:
-### CNN:
+
+### Realistic :D
+1. Find number of GM, WM, & CSF pixels for each participant
+    - Voxel Brightness values: CSF = 1, GM = 2, WM = 3
+2. Feed into ML classifier (i.e., LR) and label with ages
+    - Find relationship between GM, WM, & CSF with age
+
+
+
+### CNN: (NOW A STRETCH GOAL!)
 1. [✅] Use masks to normalize brain data
 2. [ ] Find Ground Truth Data
      - Voxel Brightness values: CSF = 1, GM = 2, WM = 3
