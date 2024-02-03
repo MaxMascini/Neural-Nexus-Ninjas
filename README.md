@@ -27,6 +27,7 @@ ssh: userXXX@login1.neuraldh.ace-net.training
 
 ## Resources: (More in PowerPoint Presentation)
 - Presentation video: https://dalu-my.sharepoint.com/personal/fr591304_dal_ca/_layouts/15/stream.aspx?id=%2Fpersonal%2Ffr591304%5Fdal%5Fca%2FDocuments%2FDal%2FPresentations%2F2024%2FNeuralHackathon%2Fvideo2057952459%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
+- CNN's with Keras: https://www.kaggle.com/code/kanncaa1/convolutional-neural-network-cnn-tutorial
 - Data Visualization: https://simpleitk.org
 - ResNet: https://blog.paperspace.com/writing-resnet-from-scratch-in-pytorch/
 - Clustered-FL-BrainAGE: https://github.com/Abtinmy/Clustered-FL-BrainAGE
