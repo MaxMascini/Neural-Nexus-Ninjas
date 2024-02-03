@@ -1,6 +1,6 @@
 # TO-DOs/Tasks:
 
-### Realistic :D
+### Machine Learning Classification (Realistic :D)
 1. [✅] Use masks to normalize brain data
 2. [✅] Find number of GM, WM, & CSF pixels for each participant
     - Voxel Brightness values: CSF = 1, GM = 2, WM = 3
@@ -12,7 +12,7 @@
 
 ### CNN: (NOW A STRETCH GOAL!)
 1. [✅] Use masks to normalize brain data
-2. [ ] Find Ground Truth Data
+2. [✅] Find Ground Truth Data
      - Voxel Brightness values: CSF = 1, GM = 2, WM = 3
 3. [ ] Train-test split
     - [ ] Randomly split participants: 520 training, ~104 validation & hypertuning, ~132 testing
